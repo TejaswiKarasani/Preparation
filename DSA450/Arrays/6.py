@@ -1,3 +1,5 @@
+# 1. use set
+# 2. use visited array by initializing max
 class Solution:    
     #Function to return the count of number of elements in union of two arrays.
     def doUnion(self,a,n,b,m):
